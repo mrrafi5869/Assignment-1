@@ -1,0 +1,172 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+h1{
+    color: black;
+}
+/* header section starts here */
+.header-section {
+  color: white;
+  background-image: url(donate-today-main/images/donation13.jpg);
+  background-repeat: no-repeat;
+  text-align: center;
+  background-position: cover;
+  background-size: cover;
+  padding-bottom: 100px;
+  margin-bottom: 100px;
+}
+.header-div h1 {
+  padding-top: 100px;
+  font-size: 40px;
+  color: white;
+}
+.header-div p {
+  margin-bottom: 50px;
+  
+}
+.click-me {
+  background-color: tomato;
+  padding: 15px 30px;
+  border-radius: 5px;
+  text-decoration: none;
+  color: white;
+  text-align: center;
+}
+/* header section ends here */
+/* amount section starts here */
+.amount {
+  text-align: center;
+  margin-bottom: 100px;
+}
+.taka {
+  color: gray;
+  font-size: 20px;
+  font-weight: bold;
+  display: flex;
+  margin-left: 750px;
+}
+.taka p {
+  margin-right: 20px;
+  background-color: rgb(232, 225, 225);
+  padding: 20px;
+  width: 50px;
+}
+#two-hundred{
+    border: 2px solid orange;
+    background-color: pink;
+}
+.para {
+  border-bottom: 1px solid black;
+  margin-bottom: 50px;
+  color: gray;
+}
+/* amount section ends here */
+/* plan section starts here */
+.plan{
+    margin-bottom: 100px;
+}
+.donate-plan{
+    text-align: center;
+}
+.donate-plan p{
+    color: gray;
+}
+.item{
+    display: flex;
+    margin-left: 120px;
+}
+.food{
+    background-color: aliceblue;
+    margin-right: 15px;
+    padding: 50px 15px;
+    color: gray;
+}
+.shelter{
+    background-color:rgb(234, 173, 173) ;
+    margin-right: 15px;
+    padding: 50px 15px;
+    color: gray;
+
+}
+.education{
+    background-color: rgb(229, 209, 94);
+    margin-right: 15px;
+    padding: 50px 15px;
+    color: gray;
+
+}
+/* plan section ends here */
+/* about-us section ends here */
+#info{
+    margin-left: 120px;
+}
+.about-us{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 80%;
+    
+}
+.half-width p{
+    width: 80%;
+}
+/* about-us section ends here */
+/* update section ends here */
+.updates{
+    text-align: center;
+    margin-bottom: 100px;
+}
+#details{
+    text-align: center;
+    margin-bottom: 100px;
+}
+#details h1{
+    font-size: 30px;
+}
+#details p{
+    color: gray;
+}
+input{
+    padding: 8px 35px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    font-size: 15px;
+}
+#send-btn{
+    text-decoration: none;
+    background-color: orange;
+    color: white;
+    padding: 10px 25px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+}
+#email-box{
+    background-color: antiquewhite;
+    padding: 50px;
+    display: inline;
+}
+/* update section ends here */
+/* footer section stats here */
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+#footer-head{
+    color: orange;
+    font-style: italic;
+    font-family: 'Teko', sans-serif;
+    font-size: 40px;
+}
+.footer p{
+    color: gray;
+}
+/* footer section ends here */
